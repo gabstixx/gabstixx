@@ -22,4 +22,4 @@ I'm interested in building practical software solutions, learning how systems wo
 - Exploring AI/ML as a secondary interest.
 
 ### Connect
-- GitHub: [@Gab-stixx](https://github.com/Gab-stixx)
+- GitHub: [@Gab-stixx](https://github.com/gabstixx)
