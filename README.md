@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**Gab-stixx/Gab-stixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of Lagos (UNILAG)**, developing my skills and experience in Software Engineering.
 
-Here are some ideas to get you started:
+I'm interested in building practical software solutions, learning how systems work, and improving as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education & Experience
+- **University of Lagos (UNILAG)** — Computer Science student.
+- **HatchDev, NitHub UNILAG** — Full-Stack Development Training.
+- **Freebyz Tech** — Full-Stack Development Intern, with a primary focus on Backend Development.
+
+### Technologies
+- **Languages:** TypeScript, JavaScript, PHP, Python
+- **Frontend:** React
+- **Backend:** Laravel
+- **Database:** MySql
+
+### Current Focus
+- Improving my Software Engineering fundamentals.
+- Building and contributing to practical software projects.
+- Strengthening my full-stack development skills, particularly backend development.
+- Exploring AI/ML as a secondary interest.
+
+### Connect
+- GitHub: [@Gab-stixx](https://github.com/Gab-stixx)
